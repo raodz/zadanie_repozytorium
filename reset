@@ -1,0 +1,23 @@
+[33mcommit b1ff8a57a074d9aea5e0fb4209f97ae92763099c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rafal Odziemski <raodziem@gmail.com>
+Date:   Fri Jun 9 13:18:43 2023 +0200
+
+    dodanie nowego pliku
+
+[33mcommit c5d3358ed0cbfc72ccd7f07d0610c4b0e981655e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: raodz <124355504+raodz@users.noreply.github.com>
+Date:   Fri Jun 9 12:42:32 2023 +0200
+
+    Update README.md
+
+[33mcommit d17641f631b1ce1eace2b723bbf5756952bec490[m
+Author: raodz <124355504+raodz@users.noreply.github.com>
+Date:   Fri Jun 9 12:40:12 2023 +0200
+
+    Create README.md
+
+[33mcommit ee64ead44fbf7fa2263a505028178fa4adcfb6bb[m
+Author: raodz <124355504+raodz@users.noreply.github.com>
+Date:   Fri Jun 9 12:39:57 2023 +0200
+
+    Initial commit
